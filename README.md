@@ -1,7 +1,7 @@
 # Angular tutorial Note
 This tutorial will follow https://angular.io/tutorial 
 
-- [Intro](Intro.md)
+- [Intro](./Intro.md)
 
 - 創建 Anguar 專案
 
@@ -73,8 +73,8 @@ This tutorial will follow https://angular.io/tutorial
     }
     ```
 
-- [初探 Angular 專案 與 data binding](angular-tour-of-heroes/01-hero_editor.md)
+- [初探 Angular 專案 與 data binding](./angular-tour-of-heroes/01-hero_editor.md)
 
-- 顯示列表: *ngFor & ngIf
+- [顯示列表](./angular-tour-of-heroes/02-DisplayList.md): *ngFor & ngIf
 
-- 組件
+- [組件間傳值: @Input](./angular-tour-of-heroes/03-featureComponent.md)
