@@ -6,8 +6,8 @@ This tutorial will follow https://angular.io/tutorial
 - 創建 Anguar 專案
 
   ```shell
-  ng new newAngular
-  cd newAngular 
+  ng new angular-tour-of-heroes
+  cd angular-tour-of-heroes 
   ng serve --open
   ```
 
@@ -73,7 +73,7 @@ This tutorial will follow https://angular.io/tutorial
     }
     ```
 
-- [初探 Angular 專案](newAngular)
+- [初探 Angular 專案](angular-tour-of-heroes/01-hero_editor.md)
 
 - 顯示列表: *ngFor & ngIf
 
