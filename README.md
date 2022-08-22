@@ -73,7 +73,7 @@ This tutorial will follow https://angular.io/tutorial
     }
     ```
 
-- [初探 Angular 專案](angular-tour-of-heroes/01-hero_editor.md)
+- [初探 Angular 專案 與 data binding](angular-tour-of-heroes/01-hero_editor.md)
 
 - 顯示列表: *ngFor & ngIf
 
