@@ -79,4 +79,6 @@ This tutorial will follow https://angular.io/tutorial
 
 - [組件間傳值: @Input](./angular-tour-of-heroes/03-featureComponent.md)
 
-- [Add the service]()
+- [Service](./angular-tour-of-heroes/04-addService.md)
+
+- [Navigation]()
