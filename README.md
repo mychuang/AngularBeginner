@@ -81,4 +81,4 @@ This tutorial will follow https://angular.io/tutorial
 
 - [Service](./angular-tour-of-heroes/04-addService.md)
 
-- [Navigation]()
+- [Navigation](./angular-tour-of-heroes/05-navigation.md)
